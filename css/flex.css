@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container>div {
+    flex: 2 2 20em;
+    background-color: rgba(240, 235, 245, 0);
+    margin: 15px;
+    padding: 3px;
+    text-align: center;
+    border-top: 2px solid rgb(8, 5, 8);
+    border-left: 2px solid rgb(8, 5, 8);
+    border-bottom: 2px solid rgb(8, 5, 8);
+    border-right: 2px solid rgb(8, 5, 8);
+    margin-top: -1px;
+    margin-right: -1px;
+    margin-left: -1px;
+    margin-bottom: -1px;
+}
